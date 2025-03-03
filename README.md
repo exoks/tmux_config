@@ -1,2 +1,1 @@
-# tmux-config
-tmuxified
+# Terminal Multiplexer config #
